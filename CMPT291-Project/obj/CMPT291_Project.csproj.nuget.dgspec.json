@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tpete\\Desktop\\CMPT291-Project\\CMPT291-Project\\CMPT291_Project.csproj": {}
+    "C:\\Users\\Haris\\Source\\Repos\\Harisk25\\CMPT291-Project-1\\CMPT291-Project\\CMPT291_Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tpete\\Desktop\\CMPT291-Project\\CMPT291-Project\\CMPT291_Project.csproj": {
+    "C:\\Users\\Haris\\Source\\Repos\\Harisk25\\CMPT291-Project-1\\CMPT291-Project\\CMPT291_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tpete\\Desktop\\CMPT291-Project\\CMPT291-Project\\CMPT291_Project.csproj",
+        "projectUniqueName": "C:\\Users\\Haris\\Source\\Repos\\Harisk25\\CMPT291-Project-1\\CMPT291-Project\\CMPT291_Project.csproj",
         "projectName": "CMPT291_Project",
-        "projectPath": "C:\\Users\\tpete\\Desktop\\CMPT291-Project\\CMPT291-Project\\CMPT291_Project.csproj",
-        "packagesPath": "C:\\Users\\tpete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tpete\\Desktop\\CMPT291-Project\\CMPT291-Project\\obj\\",
+        "projectPath": "C:\\Users\\Haris\\Source\\Repos\\Harisk25\\CMPT291-Project-1\\CMPT291-Project\\CMPT291_Project.csproj",
+        "packagesPath": "C:\\Users\\Haris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Haris\\Source\\Repos\\Harisk25\\CMPT291-Project-1\\CMPT291-Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tpete\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Haris\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

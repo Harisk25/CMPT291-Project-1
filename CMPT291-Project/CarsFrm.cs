@@ -63,8 +63,8 @@ namespace CMPT291_Project
             myAdapter.Fill(dt);
 
             //change column names
-            dt.Columns["CarTypeId"].ColumnName = "Type ID";
-            dt.Columns["BranchId"].ColumnName = "Branch ID";
+            //dt.Columns["CarTypeId"].ColumnName = "Type ID";
+            //dt.Columns["BranchId"].ColumnName = "Branch ID";
 
             carData.DataSource = dt;
         }
